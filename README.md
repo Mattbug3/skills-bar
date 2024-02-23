@@ -4,7 +4,7 @@
 Skill progress bars are a common feature in portfolios and resumes, allowing users to visually showcase their expertise in various areas. In this article, we'll explore how to create dynamic and interactive skill progress bars using HTML, CSS, and JavaScript.
 
 ## HTML Structure:
-We begin by defining the HTML structure for our skill progress bars. We use semantic HTML elements such as <section>, <h3>, <div>, and <p> to organize the content. Each skill is represented by a container with a name, a progress bar, and a percentage indicator.
+We begin by defining the HTML structure for our skill progress bars. We use semantic HTML elements such as '\<section>', '\<h3>', '\<div>', and '\<p>' to organize the content. Each skill is represented by a container with a name, a progress bar, and a percentage indicator.
 
 ```html
 <!DOCTYPE html>
